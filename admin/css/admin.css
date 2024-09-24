@@ -1,0 +1,26 @@
+body {
+    padding-top: 56px;  
+    background-color: rgb(177, 227, 154);
+}
+
+.navbar{
+    background-color: #1bcf57;
+}
+.main-content {
+    padding: 20px;
+    margin-bottom: 100px;
+}
+
+footer {
+   
+    background-color: #1bcf57;
+    position: fixed;
+    bottom: 0;
+    padding: 10px 0;
+    width: 100%;
+    text-align: center;
+    
+}
+
+
+
